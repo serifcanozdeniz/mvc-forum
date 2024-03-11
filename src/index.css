@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Caveat:wght@400..700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active {
+  display: none;
+}
+body {
+  background: black;
+  color: white;
+  font-family: "Abril Fatface", serif;
+}
