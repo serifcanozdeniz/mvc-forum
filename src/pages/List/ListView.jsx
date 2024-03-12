@@ -4,7 +4,7 @@ const ListView = ({ posts, selectedUser, setSelectedUser }) => {
   return (
     <div className="h-screen bg-black text-white container-sm px-5 py-5 md:px-40 lg:px-52">
       <h1>
-        Gönderi Sayısı <span className="font-bold">{posts.length}</span>
+        Gönderi Sayısı: <span className="font-bold">{posts.length}</span>
       </h1>
 
       {posts.length === 0 ? (
