@@ -10,7 +10,9 @@
 - Model:
 
 * Uygulamanın veri mantığını ve yapısını temsil eder.
+
   Örn:
+
 * Bileşende tutulacak state'in başlangıç değeri
 * Veriyi formatlamaya yarayan fonksiyon
 * Api istekleri tutulabilir
