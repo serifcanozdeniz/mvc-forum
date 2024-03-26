@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": "50158fc9-ebb1-4c12-914d-1359a49c4be4",
+      "user": "şerif",
+      "title": "React",
+      "text": "MVC Modeli"
+    },
+    {
+      "id": "06e5b9fe-89eb-408d-8c15-4dc14f9b3a61",
+      "user": "şerif",
+      "title": "Javascript",
+      "text": "ıf else yapısı"
+    }
+  ]
+}
