@@ -61,6 +61,8 @@
 - - - MainPageView
 - - - AuthPageView
 
+---
+
 # mvc-forum
 
 Heyecanla duyurmak istediğim bir haberim var! React ve MVC yapısıyla geliştirdiğimiz yeni forum uygulamamızla karşınızdayız! Bu uygulama, kullanıcıların çeşitli konularda fikir alışverişinde bulunabileceği, etkileşimde bulunabileceği ve yeni şeyler öğrenebileceği bir platform sunuyor.
